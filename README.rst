@@ -2,6 +2,9 @@ Kinect Earth Move
 ================================================
 2012年01月20日に他界された日本マイクロソフトの川西 裕幸さんが作成されたKinect for Windows SDK Beta(当時)用の地球儀を操作するアプリケーションです。
 
+* http://kinectearthmove.codeplex.com/
+
+
 Kinect Earth Move はKinectのNUIとしての可能性を感じますが、残念ながら2月のV1.0公開前であったためBeta版のままで止まっています。今回V1.0に対応することで、より多くの方にKinectの可能性を感じていただければと思います。
 
 
